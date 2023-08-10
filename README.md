@@ -52,4 +52,4 @@ Pandas is an excellent tool for exploratory data analysis and statistical analys
 - Conduct data visualization using integrated libraries.
 
 ## References
-<a herf="https://pandas.pydata.org/docs/">Pandas</a>
+<a href="https://pandas.pydata.org/docs/">Pandas</a>
